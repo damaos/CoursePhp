@@ -20,6 +20,7 @@
  </head>
  <body>
  <?php
+ require('biblioteca.php');
  /* En este programa se presenta el funcionamiento de una
 función
  * simple, creada por el usuario
@@ -68,8 +69,9 @@ devuelve valores
  </tr>
  </table>
  <?php
- }
+ };
  ?>
 
+    
  </body>
 </html>
